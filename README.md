@@ -1,18 +1,26 @@
-## Hi there 👋
+## Salut 👋, moi c'est Capt-Richelieu
 
-<!--
-**Redstoner507/Redstoner507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Étudiant en **BUT Informatique**  
+🌱 Intéressé par le développement bas niveau.
+✨ J’aime aussi travailler sur des projets créatifs et expérimenter de nouvelles idées.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Langages & Outils
+![C](https://img.shields.io/badge/-C-333?logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/-MIPS32-333?logo=asm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333?logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333?logo=linux)
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=redstoner507&layout=compact&langs_count=8)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=redstoner507&layout=compact&theme=radical)
+
+---
+
+## 📂 Mes Projets
+- ⚓ **ws** : commande en C inspirée de la célèbre commande `sl`, qui fait apparaître des navires de guerre.  
+- 🟩 **stork_mod** : mod Minecraft 1.21.1 autour de l’Alsace.  
+- 📡 **interpreteur_manipulateur_morse** : interpréteur permettant d’émuler un manipulateur Morse à l’aide d’un Raspberry Pi et d’un appareil imprimé en 3D.  
+- 🎲 **yams** : projet tutoré de première année – un Yams en C# avec un site web qui récupère les résultats via une API après leur envoi.  
+
+---
+
