@@ -19,7 +19,7 @@
 ## 📂 Mes Projets
 - ⚓ **ws** : commande en C inspirée de la célèbre commande `sl`, qui fait apparaître des navires de guerre.  
 - 🟩 **stork_mod** : mod Minecraft 1.21.1 autour de l’Alsace.  
-- 📡 **interpreteur_manipulateur_morse** : interpréteur permettant d’émuler un manipulateur Morse à l’aide d’un Raspberry Pi et d’un appareil imprimé en 3D.  
+- 📡 **interpreteur_manipulateur_morse** : interpréteur codé en C permettant d’émuler un manipulateur Morse à l’aide d’un Raspberry Pi et d’un appareil imprimé en 3D.  
 - 🎲 **yams** : projet tutoré de première année – un Yams en C# avec un site web qui récupère les résultats via une API après leur envoi.
 - 🧩 **sudoku_mips32** : projet tutoré de première année – un solveur de sudoku en mips32
 
