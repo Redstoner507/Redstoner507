@@ -1,8 +1,8 @@
 ## Salut 👋, moi c'est Capt-Richelieu
 
-💻 Étudiant en **BUT Informatique**  
-🌱 Intéressé par le développement bas niveau.
-✨ J’aime aussi travailler sur des projets créatifs et expérimenter de nouvelles idées.  
+💻 Étudiant en **BUT Informatique** </br> 
+🌱 Intéressé par le développement bas niveau. </br>
+✨ J’aime aussi découvrir des langages de programmation et expérimenter de nouvelles idées. </br>
 
 ---
 
