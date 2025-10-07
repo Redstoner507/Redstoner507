@@ -4,6 +4,11 @@
 🌱 Interessiert an Low-Level-Programmierung. </br>
 ✨ Ich liebe es auch, Programmiersprachen zu entdecken und mit neuen Ideen zu experimentieren. </br>
 
+🌐 Sprachen:  
+- 🇫🇷 [Französisch](README.md)  
+- 🇩🇪 [Deutsch](README.de.md)  
+- 🇬🇧 [Englisch](README.en.md)
+
 ---
 
 ## 🔧 Programmiersprachen & Tools

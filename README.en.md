@@ -4,6 +4,11 @@
 🌱 Interested in low-level development. </br>
 ✨ I also enjoy exploring programming languages and experimenting with new ideas. </br>
 
+🌐 Languages:  
+- 🇫🇷 [French](README.md)  
+- 🇩🇪 [German](README.de.md)  
+- 🇬🇧 [English](README.en.md)
+
 ---
 
 ## 🔧 Languages & Tools
