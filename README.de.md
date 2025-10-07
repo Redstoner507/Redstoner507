@@ -4,6 +4,8 @@
 🌱 Interessiert an Low-Level-Programmierung. </br>
 ✨ Ich liebe es auch, Programmiersprachen zu entdecken und mit neuen Ideen zu experimentieren. </br>
 
+---
+
 ## 🔧 Programmiersprachen & Tools
 ![C](https://img.shields.io/badge/-C-333?logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-MIPS32-333?logo=asm&logoColor=white)
