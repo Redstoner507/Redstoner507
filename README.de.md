@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333?logo=linux)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=redstoner507&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=redstoner507&hide=html,css,javascript&langs_count=6&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 ---
 
