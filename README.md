@@ -12,14 +12,35 @@
 ---
 
 ## 🔧 Langages & Outils
-![C](https://img.shields.io/badge/-C-333?logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/-MIPS32-333?logo=asm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333?logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333?logo=linux)
-
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=redstoner507&hide=html,css,javascript&langs_count=6&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
----
+**Langages**
+
+<div>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+  	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/>
+
+</div>
+<br>
+
+**Bases de données**
+
+<div>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
+</div>
+<br>
+
+**Outils**
+
+<div>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/>
+</div>
+<br>
 
 ## 📂 Mes Projets
 - ⚓ **ws** : commande en C inspirée de la célèbre commande `sl`, qui fait apparaître des navires de guerre.  
