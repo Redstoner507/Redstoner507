@@ -4,7 +4,7 @@
 🌱 Intéressé par le développement bas niveau. </br>
 ✨ J’aime aussi découvrir des langages de programmation et expérimenter de nouvelles idées. </br>
 
-🌐 Languges:  
+🌐 Langues:  
 - <img src="https://flagcdn.com/w20/fr.png" width="20"/> [Français](README.md)  
 - <img src="https://flagcdn.com/w20/de.png" width="20"/>  [Allemand](README.de.md)  
 - <img src="https://flagcdn.com/w20/gb.png" width="20"/>  [Anglais](README.en.md)
@@ -14,7 +14,7 @@
 ## 🔧 Langages & Outils
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=redstoner507&hide=html,css,javascript&langs_count=6&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
-**Langages**
+**Langues**
 
 <div>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
