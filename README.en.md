@@ -5,9 +5,9 @@
 ✨ I also enjoy exploring programming languages and experimenting with new ideas. </br>
 
 🌐 Languages:  
-- 🇫🇷 [French](README.md)  
-- 🇩🇪 [German](README.de.md)  
-- 🇬🇧 [English](README.en.md)
+- <img src="https://flagcdn.com/w20/fr.png" width="20"/> [French](README.md)  
+- <img src="https://flagcdn.com/w20/de.png" width="20"/> [German](README.de.md)  
+- <img src="https://flagcdn.com/w20/gb.png" width="20"/> [English](README.en.md)
 
 ---
 
