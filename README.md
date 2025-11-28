@@ -1,8 +1,12 @@
-## Salut 👋, moi c'est Capt-Richelieu
+## Prêt à naviguer ? Capt-Richelieu à la barre
 
-💻 Étudiant en **BUT Informatique** </br> 
-🌱 Intéressé par le développement bas niveau. </br>
-✨ J’aime aussi découvrir des langages de programmation et expérimenter de nouvelles idées. </br>
+<div>
+	<img width="1000" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+</div>
+
+- Étudiant en **BUT Informatique** </br> 
+- Je suis intéressé par le monde marin et le développement bas niveau. </br>
+- J’aime aussi découvrir des langages de programmation et expérimenter de nouvelles idées. </br>
 
 🌐 Langues:  
 - <img src="https://flagcdn.com/w20/fr.png" width="20"/> [Français](README.md)  
@@ -39,7 +43,6 @@
 **Outils**
 
 <div>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/>
 </div>

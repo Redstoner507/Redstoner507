@@ -1,8 +1,12 @@
-## Hallo 👋, ich bin Capt-Richelieu.
+## Bereit zum Auslaufen? Capt-Richelieu am Steuer
 
-💻 Student im **BUT Informatik**. </br> 
-🌱 Interessiert an Low-Level-Programmierung. </br>
-✨ Ich liebe es auch, Programmiersprachen zu entdecken und mit neuen Ideen zu experimentieren. </br>
+<div>
+	<img width="1000" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+</div>
+
+- Student im **BUT Informatik** </br>
+- Ich interessiere mich für die maritime Welt und die Low-Level-Entwicklung. </br>
+- Außerdem entdecke ich gern neue Programmiersprachen und experimentiere mit neuen Ideen. </br>
 
 🌐 Sprachen:  
 - <img src="https://flagcdn.com/w20/fr.png" width="20"/> [Französisch](README.md)  
@@ -39,7 +43,6 @@
 **Tools**
 
 <div>
-    <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/>
 </div>

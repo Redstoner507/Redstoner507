@@ -1,8 +1,12 @@
-## Hi there 👋, I'm Capt-Richelieu
+## Ready to set sail? Capt-Richelieu at the helm
 
-💻 Student in **Computer Science (BUT Informatique)** </br>
-🌱 Interested in low-level development. </br>
-✨ I also enjoy exploring programming languages and experimenting with new ideas. </br>
+<div>
+	<img width="1000" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+</div>
+
+- Student in a **Computer Science BUT** </br>
+- I’m interested in the maritime world and low-level development.</br>
+- I also enjoy discovering new programming languages and experimenting with fresh ideas.</br>
 
 🌐 Languages:  
 - <img src="https://flagcdn.com/w20/fr.png" width="20"/> [French](README.md)  
@@ -37,7 +41,7 @@
 </div>
 <br>
 
-**Outils**
+**Tools**
 
 <div>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
