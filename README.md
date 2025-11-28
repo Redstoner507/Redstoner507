@@ -1,7 +1,7 @@
 ## Prêt à naviguer ? Capt-Richelieu à la barre
 
-<div>
-	<img width="1000" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+<div align="center">
+	<img width="500" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
 </div>
 
 - Étudiant en **BUT Informatique** </br> 
