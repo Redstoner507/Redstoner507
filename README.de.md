@@ -1,7 +1,7 @@
 ## Bereit zum Auslaufen? Capt-Richelieu am Steuer
 
-<div>
-	<img width="1000" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+<div align="center">
+	<img width="500" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
 </div>
 
 - Student im **BUT Informatik** </br>

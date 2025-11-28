@@ -1,7 +1,7 @@
 ## Ready to set sail? Capt-Richelieu at the helm
 
-<div>
-	<img width="1000" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+<div align="center">
+	<img width="500" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
 </div>
 
 - Student in a **Computer Science BUT** </br>
