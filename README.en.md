@@ -16,7 +16,6 @@
 ---
 
 ## 🔧 Languages & Tools
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=redstoner507&hide=html,css,javascript&langs_count=6&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 **Languages**
 
@@ -26,8 +25,6 @@
 	<img width="60" src="asm.png" alt="asm" title="asm"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-  	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/>
-	
 
 </div>
 <br>
@@ -35,20 +32,35 @@
 **Databases**
 
 <div>
-    <img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
+</div>
+<br>
+
+**Web**
+
+<div>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel"/>
 </div>
 <br>
 
 **Tools**
 
 <div>
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Vim" title="Neovim"/>
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab"/>
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
 </div>
 <br>
-
 ---
 
 ## 📂 My Projects
