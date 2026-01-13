@@ -17,7 +17,7 @@
 
 ## 🔧 Langages & Outils
 
-![Langages les plus utilisés](https://github-readme-stats-omega-five-52.vercel.app/api/top-langs/?username=redstoner507&hide=html,css,javascript&langs_count=6&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
+![Langages les plus utilisés](https://github-readme-stats-sigma-ten-57.vercel.app/api/top-langs/?username=redstoner507&hide=html,css,javascript&langs_count=6&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
 **Langues**
 
