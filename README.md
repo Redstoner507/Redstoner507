@@ -1,8 +1,8 @@
 ## Prêt à naviguer ? Capt-Richelieu à la barre
 
 <p float="left">
-  <img width="500" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
-  <img width="500" src="tgv.jpg" alt="TGV Orange" title="TGV Orange"/>
+  <img width="350" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+  <img width="350" src="tgv.jpg" alt="TGV Orange" title="TGV Orange"/>
 </p>
 
 - Étudiant en **BUT Informatique** </br> 

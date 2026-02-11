@@ -1,8 +1,8 @@
 ## Bereit zum Auslaufen? Capt-Richelieu am Steuer
 
 <p float="left">
-  <img width="500" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
-  <img width="500" src="tgv.jpg" alt="TGV Orange" title="TGV Orange"/>
+  <img width="350" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
+  <img width="350" src="tgv.jpg" alt="TGV Orange" title="TGV Orange"/>
 </p>
 
 - Student im **BUT Informatik** </br>
