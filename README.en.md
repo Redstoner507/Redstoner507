@@ -1,13 +1,13 @@
 ## Ready to set sail? Capt-Richelieu at the helm
 
 <p float="left">
-  <img width="350" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
-  <img width="350" src="tgv.jpg" alt="TGV Orange" title="TGV Orange"/>
+  <img width="350" src="richelieu.png" alt="Battleship Richelieu" title="Richelieu"/>
+  <img width="350" src="tgv.jpg" alt="TGV PSE" title="TGV PSE"/>
 </p>
 
 - Student in a **Computer Science BUT** </br>
-- I’m interested in the maritime world and low-level development.</br>
-- I also enjoy discovering new programming languages and experimenting with fresh ideas.</br>
+- I’m interested in the maritime and railroad world, as well as low-level development.</br>
+- I also enjoy discovering new programming languages and experimenting with new ideas.</br>
 
 🌐 Languages:  
 - <img src="https://flagcdn.com/w20/fr.png" width="20"/> [French](README.md)  
@@ -46,9 +46,10 @@
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/>
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel"/>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/>
 </div>
 <br>
 
@@ -67,11 +68,18 @@
 <br>
 ---
 
-## 📂 My Projects
-- ⚓ **ws**: C command inspired by the famous `sl` command, but featuring warships.  
-- 🟩 **stork_mod**: A Minecraft 1.21.1 mod centered around the Alsace region.  
-- 📡 **interpreteur_manipulateur_morse**: A C-written interpreter emulating a Morse key using a Raspberry Pi and a 3D-printed device.  
-- 🎲 **yams**: First-year guided project – a Yams game in C# with a website that fetches results via an API after submission.  
-- 🧩 **sudoku_mips32**: First-year guided project – a Sudoku solver in MIPS32.  
+## 📂 My Projects and Contributions
+
+- **gestbriques-back**: API for managing brick wish lists.
+
+- **BuildTeamTools**: Plugins for the Build The Earth project (Contribution)
+
+- **interpreter_morse_manipulator**: A C-based interpreter that emulates a Morse code manipulator using a Raspberry Pi and a 3D-printed device.
+
+- **ws**: A C command inspired by the famous `sl` command, which displays ships on the command terminal
+
+- **Bataille_Navale_MIPS32**: A battleship game simulator written in MIPS32 assembly language
+
+- **yams**: First-year tutorial project—a Yams game in C# with a website that retrieves the results via an API after they are submitted.
 
 ---

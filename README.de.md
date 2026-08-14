@@ -1,12 +1,12 @@
 ## Bereit zum Auslaufen? Capt-Richelieu am Steuer
 
 <p float="left">
-  <img width="350" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
-  <img width="350" src="tgv.jpg" alt="TGV Orange" title="TGV Orange"/>
+  <img width="350" src="richelieu.png" alt="Schlachtschiff Richelieu" title="Richelieu"/>
+  <img width="350" src="tgv.jpg" alt="TGV PSE" title="TGV PSE"/>
 </p>
 
 - Student im **BUT Informatik** </br>
-- Ich interessiere mich für die maritime Welt und die Low-Level-Entwicklung. </br>
+- Ich interessiere mich für die maritime Welt, den Eisenbahnverkehr und die Low-Level-Entwicklung. </br>
 - Außerdem entdecke ich gern neue Programmiersprachen und experimentiere mit neuen Ideen. </br>
 
 🌐 Sprachen:
@@ -47,9 +47,10 @@
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/>
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel"/>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/>
 </div>
 <br>
 
@@ -69,12 +70,18 @@
 
 ---
 
-## 📂 Meine Projekte
+## 📂 Meine Projekte und Beiträge
 
-- ⚓ **ws**: Ein in C geschriebener Befehl, inspiriert vom bekannten Befehl `sl`, der Kriegsschiffe erscheinen lässt.
-- 🟩 **stork_mod**: Minecraft-Mod für Version 1.21.1 mit dem Thema Elsass.
-- 📡 **interpreteur_manipulateur_morse**: In C programmierter Interpreter, der es ermöglicht, mit einem Raspberry Pi und einem 3D-gedruckten Gerät einen Morsetasten-Simulator zu emulieren.
-- 🎲 **yams**: Betreutes Erstsemesterprojekt – ein Yams-Spiel in C# mit einer Website, die nach dem Senden der Ergebnisse diese über eine API abruft.
-- 🧩 **sudoku_mips32**: Betreutes Erstsemesterprojekt – ein Sudoku-Löser in mips32.
+- **gestbriques-back** : API zur Verwaltung von Wunschlisten für Bausteine
+
+- **BuildTeamTools**: Plugins für das Projekt „Build The Earth“ (Beitrag)
+
+- **Morse-Interpreter_Manipulator**: In C programmierter Interpreter, mit dem sich ein Morse-Manipulator mithilfe eines Raspberry Pi und eines 3D-gedruckten Geräts emulieren lässt.
+
+- **ws**: In C geschriebener Befehl, inspiriert vom berühmten Befehl `sl`, der Schiffe auf dem Befehlsterminal erscheinen lässt
+
+- **Bataille_Navale_MIPS32**: Flottenmanöver-Simulator in MIPS32-Assembler
+
+- **yams**: Betreutes Projekt im ersten Studienjahr – ein „Yams“-Spiel in C# mit einer Website, die die Ergebnisse nach dem Absenden über eine API abruft.
 
 ---

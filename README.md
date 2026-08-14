@@ -2,7 +2,7 @@
 
 <p float="left">
   <img width="350" src="richelieu.png" alt="Cuirassé Richelieu" title="Richelieu"/>
-  <img width="350" src="tgv.jpg" alt="TGV Orange" title="TGV Orange"/>
+  <img width="350" src="tgv.jpg" alt="TGV PSE" title="TGV PSE"/>
 </p>
 
 - Étudiant en **BUT Informatique** </br> 
@@ -46,9 +46,10 @@
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
 	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/>
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel"/>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
+	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/>
 
 </div>
 <br>
@@ -67,12 +68,18 @@
 </div>
 <br>
 
-## 📂 Mes Projets
-- ⚓ **ws** : commande en C inspirée de la célèbre commande `sl`, qui fait apparaître des navires de guerre.  
-- 🟩 **stork_mod** : mod Minecraft 1.21.1 autour de l’Alsace.  
-- 📡 **interpreteur_manipulateur_morse** : interpréteur codé en C permettant d’émuler un manipulateur Morse à l’aide d’un Raspberry Pi et d’un appareil imprimé en 3D.  
-- 🎲 **yams** : projet tutoré de première année – un Yams en C# avec un site web qui récupère les résultats via une API après leur envoi.
-- 🧩 **sudoku_mips32** : projet tutoré de première année – un solveur de sudoku en mips32
+## 📂 Mes Projets & Contributions
+- **gestbriques-back** : API pour la gestion pour des listes de souhaits de briques.
+
+- **BuildTeamTools** : Plugins pour le projet Build The Earth (Contribution)
+
+- **interpreteur_manipulateur_morse** : interpréteur codé en C permettant d’émuler un manipulateur Morse à l’aide d’un Raspberry Pi et d’un appareil imprimé en 3D.  
+
+- **ws** : commande en C inspirée de la célèbre commande `sl`, qui fait apparaître des bateaux sur le terminal de commande
+
+- **Bataille_Navale_MIPS32** : Simulateur de bataille navale en Assembleur MIPS32
+
+- **yams** : projet tutoré de première année – un Yams en C# avec un site web qui récupère les résultats via une API après leur envoi.
 
 ---
 
