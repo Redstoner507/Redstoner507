@@ -69,7 +69,6 @@
 <br>
 
 ## 📂 Mes Projets & Contributions
-- **gestbriques-back** : API pour la gestion pour des listes de souhaits de briques.
 
 - **BuildTeamTools** : Plugins pour le projet Build The Earth (Contribution)
 
@@ -80,6 +79,8 @@
 - **Bataille_Navale_MIPS32** : Simulateur de bataille navale en Assembleur MIPS32
 
 - **yams** : projet tutoré de première année – un Yams en C# avec un site web qui récupère les résultats via une API après leur envoi.
+
+- **Bataille Navale Java** : projet tutoré de deuxième année - Bataille navale créé avec Java Swing implémentant quelques règles supplémentaires
 
 ---
 

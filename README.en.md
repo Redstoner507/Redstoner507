@@ -70,8 +70,6 @@
 
 ## 📂 My Projects and Contributions
 
-- **gestbriques-back**: API for managing brick wish lists.
-
 - **BuildTeamTools**: Plugins for the Build The Earth project (Contribution)
 
 - **interpreter_morse_manipulator**: A C-based interpreter that emulates a Morse code manipulator using a Raspberry Pi and a 3D-printed device.
@@ -81,5 +79,7 @@
 - **Bataille_Navale_MIPS32**: A battleship game simulator written in MIPS32 assembly language
 
 - **yams**: First-year tutorial project—a Yams game in C# with a website that retrieves the results via an API after they are submitted.
+
+- **Bataille Navale Java**: Second-year supervised project – Battleship created using Java Swing, implementing a few additional rules
 
 ---

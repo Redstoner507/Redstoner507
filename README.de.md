@@ -72,8 +72,6 @@
 
 ## 📂 Meine Projekte und Beiträge
 
-- **gestbriques-back** : API zur Verwaltung von Wunschlisten für Bausteine
-
 - **BuildTeamTools**: Plugins für das Projekt „Build The Earth“ (Beitrag)
 
 - **Morse-Interpreter_Manipulator**: In C programmierter Interpreter, mit dem sich ein Morse-Manipulator mithilfe eines Raspberry Pi und eines 3D-gedruckten Geräts emulieren lässt.
@@ -83,5 +81,7 @@
 - **Bataille_Navale_MIPS32**: Flottenmanöver-Simulator in MIPS32-Assembler
 
 - **yams**: Betreutes Projekt im ersten Studienjahr – ein „Yams“-Spiel in C# mit einer Website, die die Ergebnisse nach dem Absenden über eine API abruft.
+  
+- **Bataille Navale Java**: Betreutes Projekt im zweiten Studienjahr – Mit Java Swing erstelltes Schiffe versenken-Spiel, das einige zusätzliche Regeln implementiert
 
 ---
